@@ -1,4 +1,6 @@
-![github_banner](https://github.com/user-attachments/assets/740fee9b-f990-4571-adbe-33ceaad95773)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnaJuliaUrbanek/NOME-DO-REPO/main/assets/banner.gif">
+</p>
 
 ## 💻 core.system
 
