@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnaJuliaUrbanek/NOME-DO-REPO/main/assets/banner.gif">
+  <img src="https://github.com/user-attachments/assets/22883da4-daa8-42ee-a88f-318d92c1630b" />
 </p>
 
 ## 💻 core.system
