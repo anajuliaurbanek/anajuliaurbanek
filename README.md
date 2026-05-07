@@ -8,8 +8,9 @@
 class Developer {
     constructor() {
         this.name = "Ana Julia Urbanek";
-        this.role = "Information Systems Student";
+        this.role = "Information Systems Student and Developer";
         this.university = "UDESC";
+        this.work = "doSul Digital";
 
 
         this.interests = [
