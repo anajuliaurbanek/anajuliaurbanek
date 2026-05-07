@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/22883da4-daa8-42ee-a88f-318d92c1630b" />
+  <img width="1584" height="396" alt="Banner_Readme" src="https://github.com/user-attachments/assets/99b99b84-2aa0-493e-8b7d-9a03b6f4fc18" />
 </p>
 
 ## 💻 core.system
